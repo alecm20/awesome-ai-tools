@@ -141,6 +141,8 @@
 * [Gemini CLI](https://github.com/google-gemini/gemini-cli) — 开源终端 Agent，适合喜欢可扩展/可集成工作流的开发者。
 
 ---
+* [toprank](https://github.com/nowork-studio/toprank) — 开源（MIT）的 Claude Code SEO 与 Google Ads 插件，整合 Google Search Console、PageSpeed Insights 和 Google Ads API，可在终端中完成 SEO 分析和广告管理。
+
 
 ## AI应用开发平台
 
