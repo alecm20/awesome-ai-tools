@@ -42,6 +42,7 @@
 
 * [Perplexity](https://www.perplexity.ai/) — 检索增强（RAG）式搜索/研究助手，适合快速查资料与生成带来源总结。
 * [NotebookLM](https://notebooklm.google/) — “基于你提供的资料”做总结/提炼/问答，适合做资料库学习与研究整理。
+* [Remio](https://remio.ai/) — 本地优先的 AI 记忆与知识库桌面应用，适合把文件、网页、录音、邮件和笔记索引成可检索的个人上下文。
 * [Elicit](https://elicit.com/) — 偏论文检索与证据整理，适合做研究问题拆解与文献综述初稿。
 * [Consensus](https://consensus.app/) — 面向论文结论的问答与引用汇总，适合快速获取研究共识与关键证据。
 
