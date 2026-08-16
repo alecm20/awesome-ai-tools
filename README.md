@@ -120,6 +120,7 @@
 * [Luma Dream Machine](https://lumalabs.ai/dream-machine) — 生成速度快、上手简单，适合快速试镜头与灵感迭代。
 * [Kling（可灵）](https://klingai.kuaishou.com/) — 国内/中文生态里非常强势的视频生成工具之一。
 * [HeyGen](https://www.heygen.com/) — AI 虚拟人/口播视频与多语言配音强，适合营销、培训、出海内容。
+* [videos.social](https://videos.social/?utm_source=alecm20-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) — 把博客、PDF 和提示词做成可编辑的无脸视频。Start free — 1 render included.
 
 ---
 
