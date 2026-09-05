@@ -35,6 +35,7 @@
 * [Claude](https://claude.ai/) — 偏强的写作/总结与代码协作体验，适合长文档处理与日常脑力工作。
 * [Gemini](https://gemini.google.com/) — 多模态能力强，与 Google 生态（搜索、文档等）结合紧密。
 * [Grok](https://grok.com/) — 偏“实时信息/热点”风格的助手，和 X 生态强绑定。
+* [WSUP AI](https://wsupai.app/) — 浏览器内免费 AI 角色聊天，无需注册，仅限 SFW。
 
 ---
 
