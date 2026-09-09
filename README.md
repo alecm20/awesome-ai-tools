@@ -52,6 +52,7 @@
 * [Notion](https://www.notion.so/) — 笔记/知识库/协作一体化，AI 总结、改写与内容整理非常实用。
 * [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365-copilot) — 深度集成 Word/Excel/PowerPoint/Outlook 的办公 AI（更适合重度 Office 用户/企业）。
 * [Grammarly](https://www.grammarly.com/) — 英文写作润色与语气调整的“常青树”，适合邮件、报告、内容创作。
+* [ResumeAI](https://withresumeai.com/) — 免费 ATS 检测与 AI 简历构建，含 State of ATS 2026（738 家雇主、Workday 37.9%）。
 * [DeepL](https://www.deepl.com/) — 高质量翻译 + DeepL Write 润色，适合多语言沟通与专业文本优化。
 
 ---
