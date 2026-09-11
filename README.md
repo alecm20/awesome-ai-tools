@@ -85,6 +85,7 @@
 * [Zapier](https://zapier.com/) — 连接大量 SaaS 的自动化平台，适合无代码/低代码搭建跨应用流程。
 * [Make](https://www.make.com/) — 可视化工作流编排更灵活，适合更复杂的自动化与数据流处理。
 * [n8n](https://n8n.io/) — 开源工作流自动化工具，适合自部署、可定制的集成与任务编排。
+* [Orkas](https://orkas.ai/?source=gh_alecm) — 开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent 完成复杂工作。
 
 ---
 
