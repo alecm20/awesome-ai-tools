@@ -120,6 +120,7 @@
 * [Luma Dream Machine](https://lumalabs.ai/dream-machine) — 生成速度快、上手简单，适合快速试镜头与灵感迭代。
 * [Kling（可灵）](https://klingai.kuaishou.com/) — 国内/中文生态里非常强势的视频生成工具之一。
 * [HeyGen](https://www.heygen.com/) — AI 虚拟人/口播视频与多语言配音强，适合营销、培训、出海内容。
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — MIT 开源、本地优先的 CLI 与 MCP 视频工具包，让编程 Agent 通过可编辑的 plan.json 时间线编排和剪辑视频；生成服务可选。
 
 ---
 
