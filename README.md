@@ -139,6 +139,7 @@
 * [Claude Code](https://claude.com/product/claude-code) — 终端/IDE 的代码 Agent，适合“让它直接改代码、跑命令、提 PR 级变更”。
 * [Codex CLI](https://github.com/openai/codex) — OpenAI 的终端编码 Agent，适合本地仓库内的任务执行与变更生成。
 * [Gemini CLI](https://github.com/google-gemini/gemini-cli) — 开源终端 Agent，适合喜欢可扩展/可集成工作流的开发者。
+* [agent-qa](https://vostride.com) — 面向 Web、Android 和 iOS 的自然语言测试 Agent，以持久记忆引擎和经验证的自我改进复用测试经验，可通过 CLI 或 MCP 接入开发工作流。
 
 ---
 
