@@ -120,6 +120,9 @@
 * [Luma Dream Machine](https://lumalabs.ai/dream-machine) — 生成速度快、上手简单，适合快速试镜头与灵感迭代。
 * [Kling（可灵）](https://klingai.kuaishou.com/) — 国内/中文生态里非常强势的视频生成工具之一。
 * [HeyGen](https://www.heygen.com/) — AI 虚拟人/口播视频与多语言配音强，适合营销、培训、出海内容。
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) — Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) — Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) — Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 
 ---
 
