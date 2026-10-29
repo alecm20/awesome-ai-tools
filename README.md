@@ -1,5 +1,6 @@
 # Awesome AI Tools
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 精选的 AI 工具列表，帮助您提高生产力（每个分类尽量只保留更成熟、口碑好、长期可用的选项）。
 
 ## 收录原则
