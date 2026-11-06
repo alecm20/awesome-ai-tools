@@ -93,6 +93,9 @@
 **在线工具（即开即用）**
 
 * [Midjourney](https://www.midjourney.com/) — 画面审美与风格化能力强，适合海报、概念图、灵感探索。
+* [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+* [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+* [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 * [DALL·E（ChatGPT 内）](https://openai.com/dall-e) — 与对话式编辑结合紧密，适合“边聊边改”的出图流程。
 * [Ideogram](https://ideogram.ai/) — 擅长生成带**清晰文字/排版**的图片（Logo、海报、标题图等）。
 * [Adobe Firefly](https://www.adobe.com/products/firefly.html) — 与 Adobe 生态协同好，适合偏商业设计工作流与多工具联动。
