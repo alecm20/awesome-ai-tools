@@ -99,6 +99,9 @@
 * [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
 * [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
 * [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+* [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s 21:9 solo video (Paid from $7.99; not affiliated with Riot/K/DA)
+* [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99; unofficial)
+* [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99; unofficial)
 * [DALL·E（ChatGPT 内）](https://openai.com/dall-e) — 与对话式编辑结合紧密，适合“边聊边改”的出图流程。
 * [Ideogram](https://ideogram.ai/) — 擅长生成带**清晰文字/排版**的图片（Logo、海报、标题图等）。
 * [Adobe Firefly](https://www.adobe.com/products/firefly.html) — 与 Adobe 生态协同好，适合偏商业设计工作流与多工具联动。
